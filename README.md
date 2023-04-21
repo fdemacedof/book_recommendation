@@ -17,8 +17,8 @@ this notebook uses [Kaggle's Goodreads Book Datasets](https://www.kaggle.com/dat
 ## exploration
 
 data is comprised of: 
-    - a book dataset, with information about books 
-    - a ratings dataset, with user ratings on books
+- a book dataset, with information about books 
+- a ratings dataset, with user ratings on books
 
 book rating is distributed as follows:
 
